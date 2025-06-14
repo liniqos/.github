@@ -40,4 +40,4 @@ We welcome early collaborators and infrastructure hackers! See [CONTRIBUTING.md]
 ---
 
 Built with love, resilience, and long-term vision.  
-*— Team LiniqOS*
+*— By [ObjectSpread](https://objectspread.com)*
